@@ -1,2 +1,2 @@
-# wordpress-youtube-video-iframe
-SM YouTube Video iFrame
+# Wordpress Youtube Video iFrame
+**SM YouTube Video iFrame** is a wordpress widget plugin
